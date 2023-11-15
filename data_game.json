@@ -7,7 +7,7 @@
       "genre": "Action, Adventure",
       "platform": "PS, Xbox, Windows",
       "publisher": "Rockstar Game",
-      "poster": "https://i.postimg.cc/0Kn3Z5Lw/Grand-Theft-Auto-V.png"
+      "poster": "https://i.postimg.cc/5jWV46gn/Grand-Theft-Auto-V.png"
     },
     {
       "no": 2,
@@ -16,11 +16,11 @@
       "genre": "Action role-playing",
       "platform": "PS, Xbox, Windows",
       "publisher": "Bandai Namco",
-      "poster": "https://i.postimg.cc/rK8243v4/elden-ring.jpg"
+      "poster": "https://i.postimg.cc/7YzHFy9K/elden-ring.jpg"
     },
     {
       "no": 3,
-      "name": "I Takes Two",
+      "name": "It Takes Two",
       "release_date": "2022-11-04",
       "genre": "Action-adventure, platform",
       "platform": "PS, Xbox, Windows, Nintendo Switch",
@@ -34,7 +34,7 @@
       "genre": "Action-adventure, stealth",
       "platform": "PS, Xbox, Windows, Nintendo Switch",
       "publisher": "Focus Entertainment",
-      "poster": "https://i.postimg.cc/RWDkjFq1/plague.jpg"
+      "poster": "https://i.postimg.cc/9fmcwwhk/plague.jpg"
     },
     {
       "no": 5,
@@ -43,7 +43,7 @@
       "genre": "Action-adventure, hack and slash",
       "platform": "PS",
       "publisher": "Sony Interactive Entertainment",
-      "poster": "https://i.postimg.cc/xctD3g24/gowr.jpg"
+      "poster": "https://i.postimg.cc/3xH87bbY/gowr.jpg"
     },
     {
       "no": 6,
@@ -52,7 +52,7 @@
       "genre": "\tAction-adventure",
       "platform": "PS",
       "publisher": "Sony Interactive Entertainment",
-      "poster": "https://i.postimg.cc/xkNwY2bw/last-of-us.jpg"
+      "poster": "https://i.postimg.cc/nL3p4VVh/last-of-us.jpg"
     },
     {
       "no": 7,
@@ -61,7 +61,7 @@
       "genre": "Action-adventure",
       "platform": "PS, Xbox, Windows, Stadia",
       "publisher": "Activision",
-      "poster": "https://i.postimg.cc/mzQKzyjV/sekiro.jpg"
+      "poster": "https://i.postimg.cc/bJMP56tX/sekiro.jpg"
     },
     {
       "no": 8,
@@ -70,7 +70,7 @@
       "genre": "Action",
       "platform": "PS, Xbox, Windows, macOS, iOS",
       "publisher": "Sony Interactive Entertainment",
-      "poster": "https://i.postimg.cc/pyQtpR1x/death-stranding.jpg"
+      "poster": "https://i.postimg.cc/h464ZGLJ/death-stranding.jpg"
     },
     {
       "no": 9,
@@ -79,7 +79,7 @@
       "genre": "Action role-playing",
       "platform": "PS, Xbox, Windows, Stadia, Nintedo Switch",
       "publisher": "Ubisoft",
-      "poster": "https://i.postimg.cc/n9185GQM/ac-odyssey.jpg"
+      "poster": "https://i.postimg.cc/x8w0XsfG/ac-odyssey.jpg"
     },
     {
       "no": 10,
@@ -88,7 +88,7 @@
       "genre": "Action-adventure",
       "platform": "PS, Xbox, Windows, Stadia",
       "publisher": "Rockstar Games",
-      "poster": "https://i.postimg.cc/47CrxS6m/rdr2.jpg"
+      "poster": "https://i.postimg.cc/PxNh2GNz/rdr2.jpg"
     }
   ]
 }
