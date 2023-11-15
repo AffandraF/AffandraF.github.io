@@ -4,7 +4,7 @@
       "no": 1,
       "name": "Grand Theft Auto V",
       "release_date": "2013-09-17",
-      "genre": "Action, Adventure",
+      "genre": "Action-adventure",
       "platform": "PS, Xbox, Windows",
       "publisher": "Rockstar Game",
       "poster": "https://i.postimg.cc/5jWV46gn/Grand-Theft-Auto-V.png"
@@ -49,7 +49,7 @@
       "no": 6,
       "name": "The Last of Us Part II",
       "release_date": "2020-06-19",
-      "genre": "\tAction-adventure",
+      "genre": "Action-adventure",
       "platform": "PS",
       "publisher": "Sony Interactive Entertainment",
       "poster": "https://i.postimg.cc/nL3p4VVh/last-of-us.jpg"
